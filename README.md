@@ -10,22 +10,22 @@ The application allows users to train a Convolutional Neural Network (CNN), anal
 
 ### 📊 CNN Training & Evaluation
 
-![Training Results]<img width="1497" height="802" alt="Screenshot 2026-06-18 215941 - Copy" src="https://github.com/user-attachments/assets/da5f5ece-ae53-427a-ad1f-af16d06d4415" />
+<img width="1497" height="802" alt="Screenshot 2026-06-18 215941 - Copy" src="https://github.com/user-attachments/assets/da5f5ece-ae53-427a-ad1f-af16d06d4415" />
 
 
 ### 🎯 Digit Prediction
 
-![Digit Prediction]<img width="1299" height="856" alt="Screenshot 2026-06-18 220128" src="https://github.com/user-attachments/assets/0de8a014-1ebf-409a-b350-f8462ec32a09" />
+<img width="1299" height="790" alt="Screenshot 2026-06-18 220128" src="https://github.com/user-attachments/assets/fbe31dad-4df8-44e7-b9a4-226ebd2cc8aa" />
 
 
 ### 📝 Dataset Preview
 
-![Dataset Preview]<img width="1580" height="911" alt="Screenshot 2026-06-18 215522 - Copy" src="https://github.com/user-attachments/assets/9b35b2bb-3d55-4bcb-9811-8b5443f97998" />
+<img width="1580" height="870" alt="Screenshot 2026-06-18 215522" src="https://github.com/user-attachments/assets/2ce804b7-17c9-4e2e-ba62-0d82560b586f" />
 
 
 ### 📈 Accuracy Visualization
 
-![Accuracy Graph]<img width="1027" height="763" alt="Screenshot 2026-06-18 220038" src="https://github.com/user-attachments/assets/27e17772-ebf9-49fc-bc55-58adf1798ca7" />
+<img width="1027" height="763" alt="Screenshot 2026-06-18 220038" src="https://github.com/user-attachments/assets/d8270cc5-6ce2-4277-bb65-fce479741547" />
 
 
 ---
